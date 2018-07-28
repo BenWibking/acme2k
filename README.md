@@ -32,7 +32,7 @@ ready thyself for thine bodieth utmost horrrifiength challengeth and read more a
 
   + `home` and `end` move the cursor to the start or to the end of the current line respectively as do the original keybindings `ctrl+a` and `ctrl+e`. (originally intended to remove them, and i still might if i find better uses for those shortcuts.)
 
-  + `delete` deletes all text from the start of the line until cursor position. (a placeholder feature tbh)
+  + `delete` deletes the character after the current cursor position (it does this by emulating a rightarrow and then emulating a backspace).
 
 + the end ... ?
 
